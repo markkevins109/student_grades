@@ -1,0 +1,73 @@
+{
+  "sessionId": "mcbve0de-ijku65q7",
+  "topic": "machine learning",
+  "questions": [
+    {
+      "question": "What is the primary goal of supervised learning in machine learning?",
+      "options": {
+        "A": "To group similar data points into clusters",
+        "B": "To train a model to make predictions on new, unseen data",
+        "C": "To identify patterns in data without a target variable",
+        "D": "To reduce the dimensionality of a dataset"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which of the following machine learning algorithms is commonly used for classification problems?",
+      "options": {
+        "A": "Linear Regression",
+        "B": "Decision Trees",
+        "C": "K-Means Clustering",
+        "D": "Principal Component Analysis"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is overfitting in machine learning?",
+      "options": {
+        "A": "When a model is too simple and fails to capture the underlying patterns in the data",
+        "B": "When a model is too complex and performs well on the training data but poorly on new data",
+        "C": "When a model is biased towards a particular class or group",
+        "D": "When a model takes too long to train"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    null,
+    {
+      "question": "Which of the following is an example of a reinforcement learning problem?",
+      "options": {
+        "A": "Image classification",
+        "B": "Sentiment analysis",
+        "C": "Playing chess",
+        "D": "Spam vs. non-spam email classification"
+      },
+      "selected": "D",
+      "correct": "C",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "0/1000",
+  "timestamp": "2025-06-25T11:28:19.388Z"
+}
