@@ -1,0 +1,77 @@
+{
+  "sessionId": "mcc4cuk5-vlfjricl",
+  "topic": "history",
+  "questions": [
+    {
+      "question": "Which ancient civilization built the Great Library of Alexandria?",
+      "options": {
+        "A": "Egyptians",
+        "B": "Greeks",
+        "C": "Romans",
+        "D": "Babylonians"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    null,
+    {
+      "question": "The Rosetta Stone is an ancient artifact that helped decipher which ancient language?",
+      "options": {
+        "A": "Egyptian hieroglyphics",
+        "B": "Sumerian cuneiform",
+        "C": "Greek alphabet",
+        "D": "Latin script"
+      },
+      "selected": "D",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "The Renaissance was a cultural and intellectual movement that began in which century?",
+      "options": {
+        "A": "14th century",
+        "B": "15th century",
+        "C": "16th century",
+        "D": "17th century"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "The Great Fire of London occurred in which year and destroyed much of the city?",
+      "options": {
+        "A": "1665",
+        "B": "1765",
+        "C": "1865",
+        "D": "1965"
+      },
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "0/1000",
+  "startTime": "2025-06-25T15:38:30.197Z",
+  "endTime": "2025-06-25T15:39:21.900Z",
+  "timeElapsedSeconds": 52,
+  "help_needed": [],
+  "timestamp": "2025-06-25T15:39:21.901Z"
+}
