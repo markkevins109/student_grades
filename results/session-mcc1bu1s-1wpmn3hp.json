@@ -1,0 +1,113 @@
+{
+  "sessionId": "mcc1bu1s-1wpmn3hp",
+  "topic": "biology",
+  "questions": [
+    {
+      "question": "What is the process by which plants make their own food from sunlight?",
+      "options": {
+        "A": "Respiration",
+        "B": "Photosynthesis",
+        "C": "Decomposition",
+        "D": "Fermentation"
+      },
+      "selected": "C",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which of the following organelles is responsible for generating energy for the cell through cellular respiration?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Mitochondria",
+        "C": "Ribosomes",
+        "D": "Lysosomes"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the scientific term for the \"building blocks of life\"?",
+      "options": {
+        "A": "Cells",
+        "B": "Molecules",
+        "C": "Tissues",
+        "D": "Organs"
+      },
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which of the following is an example of a symbiotic relationship in nature?",
+      "options": {
+        "A": "Predator-prey relationship",
+        "B": "Competition for resources",
+        "C": "Clownfish and sea anemone",
+        "D": "Parasitic relationship"
+      },
+      "selected": "D",
+      "correct": "C",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the term for the process by which an organism's genetic information is passed from one generation to the next?",
+      "options": {
+        "A": "Genetic drift",
+        "B": "Natural selection",
+        "C": "Heredity",
+        "D": "Mutation"
+      },
+      "selected": "D",
+      "correct": "C",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "70/1000",
+  "startTime": "2025-06-25T14:13:44.033Z",
+  "endTime": "2025-06-25T14:14:38.270Z",
+  "timeElapsedSeconds": 54,
+  "help_needed": [
+    {
+      "type": "rephrase",
+      "questionIndex": 0,
+      "timestamp": "2025-06-25T14:13:47.190Z"
+    },
+    {
+      "type": "rephrase",
+      "questionIndex": 2,
+      "timestamp": "2025-06-25T14:14:13.422Z"
+    },
+    {
+      "type": "clarify",
+      "questionIndex": 2,
+      "timestamp": "2025-06-25T14:14:14.650Z"
+    },
+    {
+      "type": "understand",
+      "questionIndex": 2,
+      "timestamp": "2025-06-25T14:14:16.217Z"
+    }
+  ],
+  "timestamp": "2025-06-25T14:14:38.272Z"
+}
