@@ -1,0 +1,57 @@
+{
+  "topic": "jason",
+  "questions": [
+    {
+      "question": "Who is Jason in Greek mythology?",
+      "options": {
+        "A": "A hero who slew the Minotaur",
+        "B": "A hero who led the Argonauts",
+        "C": "A god of the sea",
+        "D": "A king of Thebes"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "20/100",
+      "totalScore": "20/200"
+    },
+    null,
+    {
+      "question": "Who helped Jason in his quest for the Golden Fleece?",
+      "options": {
+        "A": "The Muses",
+        "B": "The Fates",
+        "C": "The goddess Athena",
+        "D": "The sorceress Medea"
+      },
+      "selected": "D",
+      "correct": "D",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    null,
+    {
+      "question": "What was the fate of Jason's wife, Medea, in Greek mythology?",
+      "options": {
+        "A": "She became a goddess",
+        "B": "She was turned into a tree",
+        "C": "She killed her own children",
+        "D": "She was exiled to a distant land"
+      },
+      "selected": "D",
+      "correct": "C",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "140/1000",
+  "timestamp": "2025-06-25T11:20:18.702Z"
+}
