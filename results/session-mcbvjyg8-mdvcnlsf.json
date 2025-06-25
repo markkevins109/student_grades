@@ -1,0 +1,88 @@
+{
+  "sessionId": "mcbvjyg8-mdvcnlsf",
+  "topic": "photosynthesis",
+  "questions": [
+    {
+      "question": "What is the overall equation for photosynthesis?",
+      "options": {
+        "A": "6 CO2 + 6 H2O → C6H12O6 (glucose) + 6 O2",
+        "B": "6 CO2 + 6 O2 → C6H12O6 (glucose) + 6 H2O",
+        "C": "C6H12O6 (glucose) + 6 O2 → 6 CO2 + 6 H2O",
+        "D": "6 H2O + light energy → C6H12O6 (glucose) + 6 O2"
+      },
+      "selected": "C",
+      "correct": "A.",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which part of a plant cell is responsible for photosynthesis?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Nucleus",
+        "C": "Chloroplast",
+        "D": "Cell wall"
+      },
+      "selected": "D",
+      "correct": "C.",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the energy source for photosynthesis?",
+      "options": {
+        "A": "Glucose",
+        "B": "Water",
+        "C": "Carbon dioxide",
+        "D": "Light"
+      },
+      "selected": "D",
+      "correct": "D.",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the byproduct of photosynthesis that is released into the atmosphere?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Oxygen",
+        "C": "Glucose",
+        "D": "Water"
+      },
+      "selected": "D",
+      "correct": "B.",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which pigment is responsible for absorbing light energy in photosynthesis?",
+      "options": {
+        "A": "Chlorophyll a",
+        "B": "Chlorophyll b",
+        "C": "Carotenoids",
+        "D": "Anthocyanins"
+      },
+      "selected": "A",
+      "correct": "A.",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "5/1000",
+  "timestamp": "2025-06-25T11:33:08.626Z"
+}
