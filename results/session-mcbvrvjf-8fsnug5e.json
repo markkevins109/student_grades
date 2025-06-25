@@ -1,0 +1,88 @@
+{
+  "sessionId": "mcbvrvjf-8fsnug5e",
+  "topic": "artificial intelligence",
+  "questions": [
+    {
+      "question": "What is the primary goal of artificial general intelligence (AGI)?",
+      "options": {
+        "A": "To perform a specific task with high accuracy",
+        "B": "To possess the ability to understand, learn, and apply knowledge across a wide range of tasks",
+        "C": "To mimic human-like intelligence in a narrow domain",
+        "D": "To replace human workers in industries"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which of the following is a type of machine learning algorithm?",
+      "options": {
+        "A": "Neural Network",
+        "B": "Decision Tree",
+        "C": "All of the above",
+        "D": "None of the above"
+      },
+      "selected": "D",
+      "correct": "C",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the term for the phenomenon where AI systems exhibit biases and unfair outcomes?",
+      "options": {
+        "A": "Algorithmic bias",
+        "B": "Machine learning paradox",
+        "C": "AI discrimination",
+        "D": "Unintended consequences"
+      },
+      "selected": "B",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "Which of the following AI applications is used to understand, interpret, and generate human-like language?",
+      "options": {
+        "A": "Computer Vision",
+        "B": "Natural Language Processing (NLP)",
+        "C": "Robotics",
+        "D": "Expert Systems"
+      },
+      "selected": "C",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the name of the AI system that defeated a human world champion in the game of Go in 2016?",
+      "options": {
+        "A": "AlphaGo",
+        "B": "Deep Blue",
+        "C": "Watson",
+        "D": "Siri"
+      },
+      "selected": "D",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "20/100",
+      "totalScore": "20/200"
+    }
+  ],
+  "overallScore": "20/1000",
+  "timestamp": "2025-06-25T11:39:41.580Z"
+}
