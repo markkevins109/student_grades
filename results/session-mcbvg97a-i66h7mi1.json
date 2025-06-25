@@ -1,0 +1,58 @@
+{
+  "sessionId": "mcbvg97a-i66h7mi1",
+  "topic": "photosynthesis",
+  "questions": [
+    {
+      "question": "What is the overall equation for photosynthesis?",
+      "options": {
+        "A": "6 CO2 + 6 H2O → C6H12O6 + 6 O2",
+        "B": "6 CO2 + 6 O2 → C6H12O6 + 6 H2O",
+        "C": "C6H12O6 + 6 O2 → 6 CO2 + 6 H2O",
+        "D": "6 H2O + light energy → C6H12O6 + 6 O2"
+      },
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    null,
+    {
+      "question": "What is the role of light energy in photosynthesis?",
+      "options": {
+        "A": "To break down glucose into energy",
+        "B": "To convert CO2 into O2",
+        "C": "To power the conversion of CO2 and H2O into glucose and O2",
+        "D": "To synthesize proteins"
+      },
+      "selected": "C",
+      "correct": "C",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    null,
+    {
+      "question": "What is the term for the process by which plants release excess oxygen into the atmosphere during photosynthesis?",
+      "options": {
+        "A": "Respiration",
+        "B": "Transpiration",
+        "C": "Photosynthesis",
+        "D": "Oxygenation"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "100/1000",
+  "timestamp": "2025-06-25T11:29:56.932Z"
+}
