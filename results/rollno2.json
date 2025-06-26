@@ -1,0 +1,92 @@
+{
+  "sessionId": "mcdf0fvn-7k4voopi",
+  "topic": "machine learning",
+  "questions": [
+    {
+      "question": "What is machine learning?",
+      "options": {
+        "A": "A type of computer hardware",
+        "B": "A way for computers to learn from data",
+        "C": "A programming language",
+        "D": "A type of software"
+      },
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "🎉 Quiz Completed!\n480 points (48%)\n📚 Keep Learning\nTake Another Quiz\nFailed to export results to GitHub.\nGitHub: Invalid request. \"sha\" wasn't supplied.\nTry Again",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What does a machine learning model do?",
+      "options": {
+        "A": "Stores data",
+        "B": "Makes predictions based on data",
+        "C": "Creates new data",
+        "D": "Deletes data"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What is used to train a machine learning model?",
+      "options": {
+        "A": "Only rules",
+        "B": "Data and examples",
+        "C": "Only algorithms",
+        "D": "Only computers"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    {
+      "question": "What is a benefit of machine learning?",
+      "options": {
+        "A": "It is very slow",
+        "B": "It can automate tasks",
+        "C": "It is very expensive",
+        "D": "It is not useful"
+      },
+      "selected": "D",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "50/100",
+      "totalScore": "50/200"
+    },
+    {
+      "question": "What is a common application of machine learning?",
+      "options": {
+        "A": "Playing games",
+        "B": "Image recognition",
+        "C": "Word processing",
+        "D": "Email sending"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    }
+  ],
+  "overallScore": "450/1000",
+  "startTime": "2025-06-26T13:24:33.251Z",
+  "endTime": "2025-06-26T13:25:16.534Z",
+  "timeElapsedSeconds": 43,
+  "help_needed": [],
+  "timestamp": "2025-06-26T13:25:16.534Z"
+}
