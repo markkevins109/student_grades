@@ -1,0 +1,98 @@
+{
+  "sessionId": "mcdeu848-700jnspo",
+  "topic": "civics",
+  "questions": [
+    {
+      "question": "What is a citizen?",
+      "options": {
+        "A": "A person living abroad",
+        "B": "A person belonging to a country",
+        "C": "A government official",
+        "D": "A non-resident"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    },
+    {
+      "question": "What is a community?",
+      "options": {
+        "A": "A group of strangers",
+        "B": "People living together in a locality",
+        "C": "A government body",
+        "D": "A school"
+      },
+      "selected": "C",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "40/100",
+      "totalScore": "40/200"
+    },
+    {
+      "question": "What is a fundamental duty?",
+      "options": {
+        "A": "A right given by the state",
+        "B": "A basic responsibility of a citizen",
+        "C": "A law made by the government",
+        "D": "A privilege for some"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    {
+      "question": "Who is a leader?",
+      "options": {
+        "A": "A person who follows others",
+        "B": "A person who guides others",
+        "C": "A government employee",
+        "D": "A student"
+      },
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "25/200"
+    },
+    {
+      "question": "What is a local government?",
+      "options": {
+        "B": "A national government body",
+        "A": "A government at the village/town level",
+        "C": "A state government",
+        "D": "A court"
+      },
+      "selected": "A",
+      "correct": "A",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    }
+  ],
+  "overallScore": "450/1000",
+  "startTime": "2025-06-26T13:19:43.256Z",
+  "endTime": "2025-06-26T13:20:40.100Z",
+  "timeElapsedSeconds": 57,
+  "help_needed": [
+    {
+      "type": "clarify",
+      "questionIndex": 3,
+      "timestamp": "2025-06-26T13:20:17.600Z"
+    }
+  ],
+  "timestamp": "2025-06-26T13:20:40.101Z"
+}
