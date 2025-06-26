@@ -1,0 +1,92 @@
+{
+  "sessionId": "mcdf1t5h-h8c1s5s3",
+  "topic": "machine learning",
+  "questions": [
+    {
+      "question": "What is machine learning?",
+      "options": {
+        "A": "A type of computer hardware",
+        "B": "AI that learns from data",
+        "C": "A programming language",
+        "D": "A database management system"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What does ML use to make predictions?",
+      "options": {
+        "A": "Rules and algorithms",
+        "B": "Only algorithms",
+        "C": "Only data",
+        "D": "Neither data nor algorithms"
+      },
+      "selected": "B",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    },
+    {
+      "question": "What is the main goal of ML?",
+      "options": {
+        "A": "To improve computer hardware",
+        "B": "To make predictions or decisions",
+        "C": "To create new programming languages",
+        "D": "To manage databases"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What type of learning is ML?",
+      "options": {
+        "A": "Rote learning",
+        "B": "Experiential learning",
+        "C": "Learning by doing",
+        "D": "Learning from data"
+      },
+      "selected": "B",
+      "correct": "D",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "25/200"
+    },
+    {
+      "question": "What is a key application of ML?",
+      "options": {
+        "A": "Image recognition",
+        "B": "Database management",
+        "C": "Network security",
+        "D": "Word processing"
+      },
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "50/100",
+      "totalScore": "50/200"
+    }
+  ],
+  "overallScore": "325/1000",
+  "startTime": "2025-06-26T13:25:37.109Z",
+  "endTime": "2025-06-26T13:26:17.474Z",
+  "timeElapsedSeconds": 40,
+  "help_needed": [],
+  "timestamp": "2025-06-26T13:26:17.474Z"
+}
