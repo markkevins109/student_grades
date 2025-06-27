@@ -1,0 +1,92 @@
+{
+  "sessionId": "mcegbbbl-s2wzyifr",
+  "topic": "civics",
+  "questions": [
+    {
+      "question": "What is a citizen?",
+      "options": {
+        "A": "A person living abroad",
+        "B": "A person belonging to a country",
+        "C": "A government official",
+        "D": "A tourist"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What is a community?",
+      "options": {
+        "A": "A group of friends",
+        "B": "People living together in an area",
+        "C": "A city or town",
+        "D": "A country"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    },
+    {
+      "question": "What is a local government?",
+      "options": {
+        "A": "Central government",
+        "B": "Government at village/town level",
+        "C": "State government",
+        "D": "Judiciary"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What is a responsibility?",
+      "options": {
+        "A": "A right given by law",
+        "B": "A duty to be performed",
+        "C": "A privilege",
+        "D": "A rule"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "Why do we pay taxes?",
+      "options": {
+        "A": "To get rewards",
+        "B": "To fund public services",
+        "C": "To punish others",
+        "D": "To save money"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    }
+  ],
+  "overallScore": "650/1000",
+  "startTime": "2025-06-27T06:48:46.353Z",
+  "endTime": "2025-06-27T06:49:33.519Z",
+  "timeElapsedSeconds": 47,
+  "help_needed": [],
+  "timestamp": "2025-06-27T06:49:33.519Z"
+}
