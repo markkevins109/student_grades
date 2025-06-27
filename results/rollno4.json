@@ -1,0 +1,98 @@
+{
+  "sessionId": "mceg8ty3-2dekr96f",
+  "topic": "history",
+  "questions": [
+    {
+      "question": "Who was India's first Prime Minister?",
+      "options": {
+        "A": "Gandhi",
+        "B": "Nehru",
+        "C": "Patel",
+        "D": "Azad"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What is the study of past events called?",
+      "options": {
+        "A": "Geography",
+        "B": "History",
+        "C": "Science",
+        "D": "Civics"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "Who built the Taj Mahal?",
+      "options": {
+        "A": "Akbar",
+        "B": "Shah Jahan",
+        "C": "Babur",
+        "D": "Humayun"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What is a historical monument?",
+      "options": {
+        "A": "Modern building",
+        "B": "Ancient structure",
+        "C": "Natural wonder",
+        "D": "Man-made lake"
+      },
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "25/200"
+    },
+    {
+      "question": "Who was a famous Indian freedom fighter?",
+      "options": {
+        "A": "Tagore",
+        "B": "Gandhi",
+        "C": "Nehru",
+        "D": "Subhash"
+      },
+      "selected": "C",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "not sure",
+      "reasoningScore": "25/100",
+      "totalScore": "25/200"
+    }
+  ],
+  "overallScore": "430/1000",
+  "startTime": "2025-06-27T06:46:50.523Z",
+  "endTime": "2025-06-27T06:48:14.789Z",
+  "timeElapsedSeconds": 84,
+  "help_needed": [
+    {
+      "type": "rephrase",
+      "questionIndex": 3,
+      "timestamp": "2025-06-27T06:47:28.353Z"
+    }
+  ],
+  "timestamp": "2025-06-27T06:48:14.790Z"
+}
