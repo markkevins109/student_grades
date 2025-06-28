@@ -1,0 +1,92 @@
+{
+  "sessionId": "mcgaduhk-w5jnrc9u",
+  "topic": "Computer Programming",
+  "questions": [
+    {
+      "question": "What is a variable in programming?",
+      "options": {
+        "A": "A constant value",
+        "B": "A storage location for data",
+        "C": "A programming language",
+        "D": "An algorithm"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "I studied this earlier",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    },
+    {
+      "question": "What is the purpose of a loop?",
+      "options": {
+        "A": "To skip a statement",
+        "B": "To repeat a set of statements",
+        "C": "To exit a program",
+        "D": "To input data"
+      },
+      "selected": "A",
+      "correct": "B",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "I was not sure the right answer",
+      "reasoningScore": "50/100",
+      "totalScore": "50/200"
+    },
+    {
+      "question": "What is an algorithm?",
+      "options": {
+        "A": "A programming language",
+        "B": "A step-by-step procedure to solve a problem",
+        "C": "A type of data structure",
+        "D": "A software tool"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "Because it’s the right answer",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    },
+    {
+      "question": "What is debugging?",
+      "options": {
+        "A": "Writing code",
+        "B": "Testing and fixing errors",
+        "C": "Compiling code",
+        "D": "Running a program"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "Debugging concept is known to me",
+      "reasoningScore": "60/100",
+      "totalScore": "160/200"
+    },
+    {
+      "question": "What is a program?",
+      "options": {
+        "A": "A set of instructions for a computer",
+        "B": "A type of computer hardware",
+        "C": "A software application",
+        "D": "A programming language"
+      },
+      "selected": "A",
+      "correct": "A",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "It’s just a random selection",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    }
+  ],
+  "overallScore": "635/1000",
+  "startTime": "2025-06-28T13:38:19.160Z",
+  "endTime": "2025-06-28T13:46:17.650Z",
+  "timeElapsedSeconds": 478,
+  "help_needed": [],
+  "timestamp": "2025-06-28T13:46:17.650Z"
+}
