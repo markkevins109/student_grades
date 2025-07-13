@@ -1,0 +1,92 @@
+{
+  "sessionId": "md1wprkl-lktxgwie",
+  "topic": "Machine Learning",
+  "questions": [
+    {
+      "question": "What is Machine Learning?",
+      "options": {
+        "A": "A type of hardware",
+        "B": "A subset of AI that enables learning",
+        "C": "A programming language",
+        "D": "A database management system"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "I had already knew about it",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What does a ML model do?",
+      "options": {
+        "A": "Stores data",
+        "B": "Makes predictions or decisions",
+        "C": "Executes algorithms",
+        "D": "Creates databases"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "I knew that!",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "What is Supervised Learning?",
+      "options": {
+        "A": "Learning without data",
+        "B": "Learning with labeled data",
+        "C": "Learning with unlabeled data",
+        "D": "Learning with rewards"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "I knew that again!",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    },
+    {
+      "question": "What is a key application of ML?",
+      "options": {
+        "A": "Image recognition",
+        "B": "Data storage",
+        "C": "Network security",
+        "D": "Word processing"
+      },
+      "selected": "C",
+      "correct": "A",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "I din't know the answer. can you help me understand the concept.",
+      "reasoningScore": "50/100",
+      "totalScore": "50/200"
+    },
+    {
+      "question": "What is the goal of ML training?",
+      "options": {
+        "A": "To test the model",
+        "B": "To improve model accuracy",
+        "C": "To deploy the model",
+        "D": "To collect data"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": " I knew it already.",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    }
+  ],
+  "overallScore": "710/1000",
+  "startTime": "2025-07-13T16:46:36.501Z",
+  "endTime": "2025-07-13T16:53:18.985Z",
+  "timeElapsedSeconds": 402,
+  "help_needed": [],
+  "timestamp": "2025-07-13T16:53:18.985Z"
+}
