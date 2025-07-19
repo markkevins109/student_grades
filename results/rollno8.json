@@ -1,0 +1,92 @@
+{
+  "sessionId": "mda56o8u-0vu145yd",
+  "topic": "coal and petroleum",
+  "questions": [
+    {
+      "question": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ ಯಾವ ಮೂಲದಿಂದ ಬರುತ್ತವೆ?",
+      "options": {
+        "A": "ಸಸ್ಯಗಳು",
+        "B": "ಪಳೆಯುಳಿಕೆ ಇಂಧನಗಳು",
+        "C": "ಖನಿಜಗಳು",
+        "D": "ಜಲವಿದ್ಯುತ್"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "i knew it",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    },
+    {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಉತ್ಪನ್ನವಲ್ಲದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಡೀಸೆಲ್",
+        "B": "ಗ್ಯಾಸೋಲಿನ್",
+        "C": "ಕಲ್ಲಿದ್ದಲು",
+        "D": "ನೈಸರ್ಗಿಕ ಅನಿಲ"
+      },
+      "selected": "C",
+      "correct": "C",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "ok",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "ಕಲ್ಲಿದ್ದಲಿನ ಮುಖ್ಯ ಉಪಯೋಗ ಏನು?",
+      "options": {
+        "A": "ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆ",
+        "B": "ನೀರಾವರಿ",
+        "C": "ಸಾರಿಗೆ",
+        "D": "ಕಟ್ಟಡ ನಿರ್ಮಾಣ"
+      },
+      "selected": "A",
+      "correct": "A",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "ok",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    {
+      "question": "ಪೆಟ್ರೋಲಿಯಂ ಯಾವ ಪ್ರಕ್ರಿಯೆಯಿಂದ ಸಂಸ್ಕರಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಶೋಧನೆ",
+        "B": "ಆವಿಯಾಗುವಿಕೆ",
+        "C": "ಸಾಂದ್ರೀಕರಣ",
+        "D": "ಹುದುಗುವಿಕೆ"
+      },
+      "selected": "A",
+      "correct": "A",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "ok",
+      "reasoningScore": "25/100",
+      "totalScore": "125/200"
+    },
+    {
+      "question": "ಕಲ್ಲಿದ್ದಲು ಮತ್ತು ಪೆಟ್ರೋಲಿಯಂ ಇಂಧನಗಳ ಮುಖ್ಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ನವೀಕರಿಸಬಹುದಾದ",
+        "B": "ಅಕ್ಷಯ",
+        "C": "ಮಾಲಿನ್ಯಕಾರಕ",
+        "D": "ಅಗ್ಗದ"
+      },
+      "selected": "C",
+      "correct": "C",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "ok",
+      "reasoningScore": "50/100",
+      "totalScore": "150/200"
+    }
+  ],
+  "overallScore": "650/1000",
+  "startTime": "2025-07-19T11:05:51.678Z",
+  "endTime": "2025-07-19T11:11:58.265Z",
+  "timeElapsedSeconds": 367,
+  "help_needed": [],
+  "timestamp": "2025-07-19T11:11:58.266Z"
+}
