@@ -1,0 +1,113 @@
+{
+  "sessionId": "mda6ssst-ad0j22c0",
+  "topic": "kannada",
+  "questions": [
+    {
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ",
+        "B": "ಆದಿಪುರಾಣ",
+        "C": "ವಡ್ಡಾರಾಧನೆ",
+        "D": "ಪಂಪಭಾರತ"
+      },
+      "selected": "A",
+      "correct": "A",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "read",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    {
+      "question": "ಕನ್ನಡದ ಲಿಪಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಬ್ರಾಹ್ಮೀ",
+        "B": "ಕನ್ನಡ ಲಿಪಿ",
+        "C": "ತಮಿಳು ಲಿಪಿ",
+        "D": "ದೇವನಾಗರಿ"
+      },
+      "selected": "B",
+      "correct": "B",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "read",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    {
+      "question": "ಕನ್ನಡದ ಪ್ರಸಿದ್ಧ ಕವಿ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ರನ್ನ",
+        "C": "ಪೊನ್ನ",
+        "D": "ಎಲ್ಲರೂ"
+      },
+      "selected": "A",
+      "correct": "D",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "d",
+      "reasoningScore": "80/100",
+      "totalScore": "80/200"
+    },
+    {
+      "question": "ಕನ್ನಡದ ಹಳೆಗನ್ನಡದ ಕಾಲ ಏನು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 5-7",
+        "B": "ಕ್ರಿ.ಶ. 10-12",
+        "C": "ಕ್ರಿ.ಶ. 15-17",
+        "D": "ಕ್ರಿ.ಶ. 20"
+      },
+      "selected": "A",
+      "correct": "A",
+      "isCorrect": true,
+      "answerScore": "100/100",
+      "reasoning": "ok",
+      "reasoningScore": "0/100",
+      "totalScore": "100/200"
+    },
+    {
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಸ್ಥಿತಿ ಏನು?",
+      "options": {
+        "A": "ಅಧಿಕೃತ",
+        "B": "ಶಾಸ್ತ್ರೀಯ",
+        "C": "ಅಳಿವಿನಂಚಿನ",
+        "D": "ಎರಡೂ"
+      },
+      "selected": "B",
+      "correct": "D",
+      "isCorrect": false,
+      "answerScore": "0/100",
+      "reasoning": "ok",
+      "reasoningScore": "0/100",
+      "totalScore": "0/200"
+    }
+  ],
+  "overallScore": "400/1000",
+  "startTime": "2025-07-19T11:51:03.629Z",
+  "endTime": "2025-07-19T11:55:31.246Z",
+  "timeElapsedSeconds": 268,
+  "help_needed": [
+    {
+      "type": "rephrase",
+      "questionIndex": 0,
+      "timestamp": "2025-07-19T11:51:16.207Z"
+    },
+    {
+      "type": "rephrase",
+      "questionIndex": 1,
+      "timestamp": "2025-07-19T11:52:10.949Z"
+    },
+    {
+      "type": "rephrase",
+      "questionIndex": 2,
+      "timestamp": "2025-07-19T11:52:46.862Z"
+    },
+    {
+      "type": "rephrase",
+      "questionIndex": 3,
+      "timestamp": "2025-07-19T11:53:25.241Z"
+    }
+  ],
+  "timestamp": "2025-07-19T11:55:31.247Z"
+}
